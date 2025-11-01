@@ -6,6 +6,7 @@ A small Python script that triggers only when the required pixels are on the scr
 <a href="https://pypi.org/project/pynput/">pynput</a> - This library allows you to control and monitor input devices. <br>
 <a href="https://pypi.org/project/PyAutoGUI/">PyAutoGUI</a> - PyAutoGUI is a cross-platform GUI automation Python module for human beings <br>
 <a href="https://pypi.org/project/keyboard/">keyboard</a> - Take full control of your keyboard with this small Python library <br>
+<a href="https://pypi.org/project/pillow/">Pillow</a> - The Python Imaging Library adds image processing capabilities to your Python interpreter.<br>
 </details>
 
 How To (Install)
