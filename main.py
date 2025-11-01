@@ -22,7 +22,7 @@ def main(key_exit: str):
             print("{key} нажата. Остановка кликов...".format(key=key_exit))
             sys.exit(0)
 
-        time.sleep(0.1)
+        time.sleep(0.01)
 
 if __name__ == "__main__":
     main(clicks.get_exit_key())
