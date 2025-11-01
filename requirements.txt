@@ -1,3 +1,4 @@
 PyAutoGUI
 pynput
 keyboard
+pillow
