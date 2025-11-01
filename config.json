@@ -1,0 +1,11 @@
+{
+    "triggers": [
+        [[500, 500, 25, 30], [255, 255, 255], 0]
+    ],
+    "where": [
+        ["left", 750, 750, 1]
+    ],
+
+    "allScreens": true,
+    "disable_key": "F5"
+}
